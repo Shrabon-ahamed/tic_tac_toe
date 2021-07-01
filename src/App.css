@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.header {
+  padding: 20px;
+  box-shadow: -1px 2px 3px 3px rgb(219, 121, 121);
+  min-width: 350px;
+  font-family: "Century Gothic";
+  position: relative;
+  margin-bottom: 50px;
+}
